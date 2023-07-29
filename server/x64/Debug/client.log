@@ -1,0 +1,17 @@
+﻿  server.cpp
+C:\Users\PC\Desktop\Project\server.cpp(26,6): error C2182: 'initializePlayers': uso no válido del tipo 'void'
+C:\Users\PC\Desktop\Project\server.cpp(26,24): error C2065: 'persons': identificador no declarado
+C:\Users\PC\Desktop\Project\server.cpp(89,10): error C2182: 'initializePlayers': uso no válido del tipo 'void'
+C:\Users\PC\Desktop\Project\server.cpp(89,35): error C2440: 'inicializando': no se puede realizar la conversión de 'Person [2]' a 'int'
+C:\Users\PC\Desktop\Project\server.cpp(89,27): message : No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\PC\Desktop\Project\server.cpp(123,6): error C2182: 'initializePlayers': uso no válido del tipo 'void'
+C:\Users\PC\Desktop\Project\server.cpp(123,6): error C2374: 'initializePlayers': nueva definición; inicialización múltiple
+C:\Users\PC\Desktop\Project\server.cpp(26): message : vea la declaración de 'initializePlayers'
+C:\Users\PC\Desktop\Project\server.cpp(123,24): error C2065: 'persons': identificador no declarado
+C:\Users\PC\Desktop\Project\server.cpp(123,33): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\PC\Desktop\Project\server.cpp(123,33): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\PC\Desktop\Project\server.cpp(138,36): warning C4244: '=': conversión de 'SOCKET' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\Project\server.cpp(257,61): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC\Desktop\Project\server.cpp(257,125): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC\Desktop\Project\server.cpp(276,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\Desktop\Project\server.cpp(276,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
