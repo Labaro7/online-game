@@ -1,17 +1,1 @@
-﻿  server.cpp
-C:\Users\PC\Desktop\Project\server.cpp(133,36): warning C4244: '=': conversión de 'SOCKET' a 'int'; posible pérdida de datos
-C:\Users\PC\Desktop\Project\server.cpp(139,94): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
-          with
-          [
-              _Rep=__int64
-          ]
-C:\Users\PC\Desktop\Project\server.cpp(140,126): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
-          with
-          [
-              _Rep=__int64
-          ]
-C:\Users\PC\Desktop\Project\server.cpp(279,61): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\PC\Desktop\Project\server.cpp(279,125): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\PC\Desktop\Project\server.cpp(297,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\PC\Desktop\Project\server.cpp(297,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-  server.vcxproj -> C:\Users\PC\Desktop\server\x64\Debug\server.exe
+﻿  server.vcxproj -> C:\Users\PC\Desktop\GameProject\x64\Debug\server.exe
