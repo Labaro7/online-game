@@ -11,15 +11,13 @@ C:\Users\PC\Desktop\Project\server.cpp(147,126): warning C4244: '=': conversión
               _Rep=__int64
           ]
 C:\Users\PC\Desktop\Project\server.cpp(198,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\PC\Desktop\Project\server.cpp(297,61): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\PC\Desktop\Project\server.cpp(297,125): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\PC\Desktop\Project\server.cpp(315,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\PC\Desktop\Project\server.cpp(315,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\PC\Desktop\Project\server.cpp(325,118): warning C4244: '+=': conversión de 'double' a 'sf::Uint8'; posible pérdida de datos
-C:\Users\PC\Desktop\Project\server.cpp(332,101): warning C4244: '+=': conversión de 'double' a 'sf::Uint8'; posible pérdida de datos
+C:\Users\PC\Desktop\Project\server.cpp(293,61): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC\Desktop\Project\server.cpp(293,125): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC\Desktop\Project\server.cpp(311,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\Desktop\Project\server.cpp(311,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
   Generando código
-  3 of 406 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+  2 of 405 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Generación de código finalizada
   server.vcxproj -> C:\Users\PC\Desktop\GameProject\x64\Release\server.exe
