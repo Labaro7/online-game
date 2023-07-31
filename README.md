@@ -1,6 +1,7 @@
 # tron-game
 Simple tron-like online game made with C++ and SFML. </br>
-It was made to practice with sockets and UI.
+It was made to practice with sockets and UI. </br>
+Source code is a Visual Studio solution.
 
 # First version
 Players can move through a circumnavigable canvas leaving a trail behind them.</br>
